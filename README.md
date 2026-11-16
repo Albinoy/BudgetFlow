@@ -4,7 +4,13 @@ An in-development iOS budgeting app for tracking job income, recurring expenses 
 
 **Personal project by Albin Binoy · AI-assisted development · v1.10 / build 10**
 
-[Portfolio](https://albinoy.github.io/Albin-Binoy-Interactive-CV/)
+[Portfolio](https://albinoy.github.io/Albin-Binoy-Interactive-CV/) · [Try the interactive web demo](https://albinoy.github.io/Albin-Binoy-Interactive-CV/budgetflow/)
+
+## Try it without Xcode
+
+The [browser demonstration](https://albinoy.github.io/Albin-Binoy-Interactive-CV/budgetflow/) lets you edit fictional income and recurring expenses, switch between weekly and monthly summaries, and update sample savings goals. No installation or sign-in is needed.
+
+This is a separate, AI-assisted web implementation of selected workflows, not the native iOS app or a browser port of its Swift code. Edits are stored in your browser where available. It does not connect to banks or implement Core Data, CloudKit or target-date planning. Its consistent annual-average calculations do not mean the known native calculation issue below has been fixed. Use fictional data only.
 
 ## My contribution
 
