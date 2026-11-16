@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Xcode local state and build products
+DerivedData/
+build/
+xcuserdata/
+*.xcuserstate
+*.xcarchive
+*.ipa
+*.dSYM/
+*.dSYM.zip
+*.xccheckout
+*.xcscmblueprint
+
+# Signing and secrets
+*.p12
+*.p8
+*.mobileprovision
+*.cer
+.env
+.env.*
+
+# Local financial data and recovery stores
+*.sqlite
+*.sqlite-*
+*.sqlite.*
+*.store
+*.store-*
+*.backup
